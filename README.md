@@ -5,6 +5,7 @@
 | -------- | ------------------------------ |
 | 生年月日 | 1993/09/05                     |
 
+* [Github Account - Ryutaro95](https://github.com/Ryutaro95)
 
 
 ## スキル
